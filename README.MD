@@ -2,7 +2,7 @@
 
 A modern desktop application with a custom loading screen developed using PySide6.
 
-![Loading Screen Preview](gifs/gif1.mp4)
+![Loading Screen Preview](gifs/gif1.gif)
 
 ## 🚀 Features
 
