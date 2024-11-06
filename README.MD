@@ -2,6 +2,8 @@
 
 A modern desktop application with a custom loading screen developed using PySide6.
 
+![Preview](gifs/gif1.gif)
+
 ## 🚀 Features
 
 - Animated loading screen with Perlin noise effect
