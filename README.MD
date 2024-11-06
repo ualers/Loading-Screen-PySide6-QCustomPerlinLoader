@@ -5,12 +5,9 @@ A modern desktop application with a custom loading screen developed using PySide
 ![Preview](gifs/gif1.gif)
 
 ## 🚀 Features
-
-- Animated loading screen with Perlin noise effect
-- Smooth transition to main window
-- Customizable progress indicators
-- Dynamic color system
-- Real-time loading message updates
+- Dynamic color system (Full)
+- Real-time loading message updates (Full)
+- SoftwareAI integrated with SystemMonitor Being able to answer questions about server status (Pending)
 
 ## 📋 Prerequisites
 - https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
