@@ -11,7 +11,7 @@ A modern desktop application with a custom loading screen developed using PySide
 - Real-time loading message updates
 
 ## 📋 Prerequisites
-
+- https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
 - Python 3.8+
 - PySide6
 - QT-PyQt-PySide-Custom-Widgets
