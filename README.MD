@@ -2,8 +2,6 @@
 
 A modern desktop application with a custom loading screen developed using PySide6.
 
-![Loading Screen Preview](gifs/gif1.gif)
-
 ## 🚀 Features
 
 - Animated loading screen with Perlin noise effect
@@ -19,6 +17,21 @@ A modern desktop application with a custom loading screen developed using PySide
 - QT-PyQt-PySide-Custom-Widgets
 - Firebase Admin SDK
 - Other dependencies listed in `requirements.txt`
+
+## 📝 Contributing
+
+1. Fork the project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## ✨ Acknowledgments
+- KhamisiKibet For creating Qt-PySide-Custom-Widgets
+- PySide6 for the excellent framework
+- Qt Community for support
+- Project contributors
+
 
 ## 🔧 Installation
 
@@ -113,19 +126,4 @@ Run the main file:
 python main.py
 ```
 
-## 📝 Contributing
-
-1. Fork the project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## ✨ Acknowledgments
-- KhamisiKibet For creating Qt-PySide-Custom-Widgets
-- PySide6 for the excellent framework
-- Qt Community for support
-- Project contributors
-
-
-Project Link: [https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader](https://github.com/your-username/loading-screen-project)
+Project Link: [https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader](https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader)
