@@ -125,4 +125,4 @@ Run the main file:
 python main.py
 ```
 
-Project Link: [https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader](https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader)
+Project Link: https://github.com/ualers/Loading-Screen-PySide6-QCustomPerlinLoader
